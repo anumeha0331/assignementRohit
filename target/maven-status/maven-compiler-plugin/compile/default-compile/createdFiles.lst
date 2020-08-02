@@ -1,0 +1,14 @@
+TestingProject\Assignment\App.class
+pageObject\SunscreenPriceComparator.class
+pageObject\MoisturizerPriceComparator.class
+pageObject\sunscreenPage.class
+pageObject\moisturizerPage.class
+pageObject\PaymentMessage.class
+pageObject\SunscreenDetailsDTO.class
+pageObject\PaymentPage.class
+pageObject\LandingPage.class
+resource\ExtentReporterNG.class
+pageObject\SunscreenCartPage.class
+resource\Base.class
+pageObject\CartPage.class
+pageObject\MoisturizerDetailsDTO.class

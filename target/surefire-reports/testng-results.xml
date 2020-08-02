@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53984" started-at="2020-07-28T14:35:20 IST" finished-at="2020-07-28T14:36:14 IST">
+    <groups>
+    </groups>
+    <test name="HomePage" duration-ms="51985" started-at="2020-07-28T14:35:20 IST" finished-at="2020-07-28T14:36:12 IST">
+      <class name="TestingProject.Assignment.homePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestingProject.Assignment.homePage@57d7f8ca]" name="initialize" is-config="true" duration-ms="18444" started-at="2020-07-28T14:35:20 IST" finished-at="2020-07-28T14:35:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basenavigationpage()[pri:0, instance:TestingProject.Assignment.homePage@57d7f8ca]" name="basenavigationpage" duration-ms="33346" started-at="2020-07-28T14:35:38 IST" finished-at="2020-07-28T14:36:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basenavigationpage -->
+      </class> <!-- TestingProject.Assignment.homePage -->
+    </test> <!-- HomePage -->
+    <test name="Test" duration-ms="0" started-at="2020-07-28T14:36:14 IST" finished-at="2020-07-28T14:36:14 IST">
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

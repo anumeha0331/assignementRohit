@@ -1,0 +1,7 @@
+15:02:48.901 [main] INFO  resource.Base - select the Sunscreen when whether is above 34 C
+15:02:50.776 [main] INFO  resource.Base - land on the screen page
+15:02:50.850 [main] INFO  resource.Base - read the information
+15:03:48.804 [main] INFO  resource.Base - driver is initialised
+15:03:51.089 [main] INFO  resource.Base - driver is initialised
+15:03:53.228 [main] INFO  resource.Base - driver Navigate to home page
+15:03:53.891 [main] INFO  resource.Base - select the Sunscreen when whether is above 34 C
